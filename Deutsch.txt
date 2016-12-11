@@ -409,7 +409,7 @@
 #407# Flugbahn festlegen. Flugbahn wird angezeigt auch nachdem das Fenster geschlossen wurde
 #408# Akzeptierte Missionen anzeigen
 #409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
+#410# Warpfeld ist aufgrund von Hindernisen Kollabiert
 #411# Besatzung anzeigen
 #412# Masseschwerpunkt anzeigen
 #413# Mit Maus steuern
@@ -422,8 +422,8 @@
 #420# Baumenü
 #421# Dekonstruieren
 #422# Rotation ausgleichen
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
+#423# Drehzylinder 
+#424# Drehzylinder Kopf
+#425# Kolben
+#426# Kolben Kopf
+#427# Nicht noch einmal Anzeigen
